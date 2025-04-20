@@ -5,7 +5,7 @@ An Android application to load images from a URL using both `AsyncTask` and `Asy
 By Doan Minh Khanh
 ---
 
-## 🚀 Features
+## Features
 
 - Load image from a given URL.
 - Two async methods: `AsyncTask` and `AsyncTaskLoader`.
@@ -15,7 +15,7 @@ By Doan Minh Khanh
 
 ---
 
-## 📲 Instructions to Run
+##  Instructions to Run
 
 1. Clone or download the project.
 2. Open the project in Android Studio.
